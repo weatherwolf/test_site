@@ -1,0 +1,8 @@
+flask==2.0.3
+flask-cors==4.0.0
+pandas==1.5.3
+numpy==1.24.3
+lxml==4.9.3
+werkzeug==2.0.3
+gunicorn==21.2.0
+python-dotenv==1.0.0 
